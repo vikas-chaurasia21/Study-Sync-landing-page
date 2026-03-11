@@ -1,6 +1,6 @@
 # StudySync Landing Page
 
-A responsive educational landing page built using HTML and CSS.
+A responsive landing page built using HTML and CSS.
 
 Features
 - Responsive design
